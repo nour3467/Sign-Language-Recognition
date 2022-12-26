@@ -1,4 +1,5 @@
-<iframe width="640" height="480" src="https://github.com/nour3467/Sign-Language-Recognition/blob/main/STATIC.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+# Demo :film_strip:
+https://user-images.githubusercontent.com/71594772/209568343-bebe42de-6ef6-458f-af93-970197d4c7a7.mp4
 
 # Sign Language Detection :pinching_hand:
 
