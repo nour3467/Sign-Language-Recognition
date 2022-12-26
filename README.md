@@ -1,8 +1,4 @@
-# Demo 
-<video src="https://github.com/nour3467/Sign-Language-Recognition/blob/main/STATIC.mp4" width="640" height="480" controls></video>
-  <source src="https://github.com/nour3467/Sign-Language-Recognition/blob/main/STATIC.mp4" type="video/mp4">
-</video>
-
+<iframe width="640" height="480" src=["https://www.youtube.com/embed/VIDEO_ID"](https://github.com/nour3467/Sign-Language-Recognition/blob/main/STATIC.mp4) frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Sign Language Detection :pinching_hand:
 
