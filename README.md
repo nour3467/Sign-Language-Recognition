@@ -1,3 +1,7 @@
+# Demo 
+<video width="320" height="240" controls>
+  <source src="https://github.com/nour3467/Sign-Language-Recognition/blob/main/STATIC.mp4" type="video/mp4">
+</video>
 # Sign Language Detection :pinching_hand:
 
 ## :notebook_with_decorative_cover: Introduction 
