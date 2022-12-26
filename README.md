@@ -1,5 +1,5 @@
 # Demo 
-<video width="320" height="240" controls>
+<video src="https://github.com/nour3467/Sign-Language-Recognition/blob/main/STATIC.mp4" width="640" height="480" controls></video>
   <source src="https://github.com/nour3467/Sign-Language-Recognition/blob/main/STATIC.mp4" type="video/mp4">
 </video>
 
